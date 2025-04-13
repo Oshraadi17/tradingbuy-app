@@ -1,0 +1,14 @@
+
+{
+  "name": "tradingbuy-app",
+  "version": "1.0.0",
+  "description": "TradingBuy demo site",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "author": "Adi Basis",
+  "license": "ISC"
+}
